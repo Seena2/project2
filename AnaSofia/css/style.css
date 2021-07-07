@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header-img{
+    width: 20%;
+    padding: 12px;
+}
+nav{
+    text-align: right;
+    
+}
+li{
+    display: inline;
+    margin: 2em;
+    font-size: 16px;
+    color: black;
+}
+.nav-link{
+    text-decoration: none;
+   
+}
